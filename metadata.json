@@ -1,0 +1,6 @@
+{
+  "name": "AetherHabit - AI & Gamified Habit Quest Tracker",
+  "description": "Ứng dụng theo dõi thói quen nhập vai kết hợp AI & Gamification với 6 phân khu: Tổng Hành Dinh, Nhật Ký AI, Lò Rèn Quy Tắc, Trạm Đổi Thưởng, Quản Trị Ngân Khố và Tàng Kinh Các.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
